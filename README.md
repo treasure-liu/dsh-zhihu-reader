@@ -56,7 +56,7 @@
 
 ```sh
 # 从 GitHub（lib/ 预构建提交，无需构建脚本授权）
-dsh plugin --profile desktop add github:<your-name>/dsh-zhihu-reader
+dsh plugin --profile desktop add github:treasure-liu/dsh-zhihu-reader
 # 或本地目录
 dsh plugin --profile desktop add <本目录路径>
 # 卸载
