@@ -1,0 +1,5 @@
+# dsh-zhihu-reader bundle patch: 把插件行插入 profile roster
+- insert:
+    - id: zhihu-reader
+      name: dsh-zhihu-reader
+      config: {}
